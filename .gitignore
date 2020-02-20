@@ -16,7 +16,6 @@ build/
 dist/
 remote-repo/
 coverage/
-package-lock.json
 .module-cache
 fixtures/dom/public/react-dom.js
 fixtures/dom/public/react.js
