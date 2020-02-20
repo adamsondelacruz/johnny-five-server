@@ -5,6 +5,12 @@
 ## Using Javascript to control IoT devices
 This repository contains the the Node.js code that controls the Arduino board. It uses the Johnny-Five library to send Firmata message to the Arduino board. 
 
+### Link to related repositories
+The folling is the link to the other repositories in order to test this setup.
+
+* [Johnny-Five demo React.js web application client](https://github.com/adamsondelacruz/johnny-five-demo)
+
+
 ## Johnny-Five
 [Johnny-Five](https://github.com/rwaldron/johnny-five) is an Open Source, Firmata Protocol based, IoT and Robotics programming framework, developed at Bocoup. Johnny-Five programs can be written for Arduino (all models), Electric Imp, Beagle Bone, Intel Galileo & Edison, Linino One, Pinoccio, pcDuino3, Raspberry Pi, Particle/Spark Core & Photon, Tessel 2, TI Launchpad and more!
 
