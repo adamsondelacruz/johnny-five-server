@@ -1,0 +1,26 @@
+{
+  "name": "johnny-five-server",
+  "version": "1.0.0",
+  "description": "Johnny Five Server Demo",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "johnny-five": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamsondelacruz/johnny-five-server.git"
+  },
+  "author": "Adamson dela Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamsondelacruz/johnny-five-server/issues"
+  },
+  "homepage": "https://github.com/adamsondelacruz/johnny-five-server#readme"
+}
